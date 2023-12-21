@@ -1,0 +1,11 @@
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\FAKS\4.god\DSTG\projekt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
